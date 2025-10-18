@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  color: #0d6efd;
+}
+
+footer {
+  font-size: 14px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.card-img-top {
+  border-radius: 8px;
+}
